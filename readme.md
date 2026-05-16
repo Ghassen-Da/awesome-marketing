@@ -155,8 +155,7 @@ This list provided by **[Marketing Tools List](https://marketingtoolslist.com)**
 
   - [AspireIQ](https://www.aspireiq.com) - Review - Influencer marketing software to help brands connect with creators.
   - [BuzzSumo](https://buzzsumo.com) - Review - Tool to find influencers in your niche by analyzing the most shared content.
-  - [Collabios](https://collabios.com) - Review - EU-native influencer marketplace with free compliance tools (Loi
-  Influenceurs, Werbekennzeichnung, AGCOM) and EUR/SEPA payments.
+  - [Collabios](https://collabios.com) - Review - EU-native influencer marketplace with free compliance tools (Loi Influenceurs, Werbekennzeichnung, AGCOM) and EUR/SEPA payments.
   - [Grin](https://www.grin.co) - Review - Influencer marketing software that helps brands manage influencer relationships at scale.
   - [Traackr](https://www.traackr.com) - Review - Data-driven influencer marketing platform for building relationships and managing campaigns.
   - [Upfluence](https://www.upfluence.com) - Review - Influencer marketing platform for discovering and managing influencer campaigns.
